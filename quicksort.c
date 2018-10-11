@@ -1,6 +1,6 @@
 #include<stdio.h>
-void quick(int a[30],int p,int r);
-int partition(int a[30],int p,int r,int n);
+void quick(int a[50],int p,int r);
+int partition(int a[50],int p,int r,int n);
 int main()
 {
     int a[30],i,n;
